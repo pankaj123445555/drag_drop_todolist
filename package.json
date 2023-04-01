@@ -1,0 +1,16 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "It is a drag and drop todoList , built it using the react and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Giri",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.2",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-hook-form": "^7.43.9"
+  }
+}
